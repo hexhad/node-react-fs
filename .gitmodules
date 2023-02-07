@@ -1,0 +1,3 @@
+[submodule "react-submodule"]
+	path = react-submodule
+	url = https://github.com/hexhad/react-submodule
