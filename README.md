@@ -22,7 +22,7 @@ npm run dev
 
 #### Then move to the react-submodule dir and install node_modules
 ```
-cd .. && npm cd react-submodule && npm i
+cd .. && cd react-submodule && npm i
 ```
 
 #### After that you will be able to run the frontend project
